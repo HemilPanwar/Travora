@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Travora
 
 Travora is a full-stack, multi-agent AI travel planner.
@@ -50,3 +51,6 @@ The frontend will run on `http://localhost:3000`.
 - Human-in-the-Loop review process for trip generation
 - Animated Framer Motion UI
 - JWT-based Authentication
+=======
+# Travora
+>>>>>>> 09e231828122c6b1dc1c41c6623fbfe6cfaac774
